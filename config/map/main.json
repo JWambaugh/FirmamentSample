@@ -1,0 +1,17 @@
+{
+     "entities" : [
+        {
+            "entityFile" : "config/entity/trophy.json"
+        }
+        /*{
+             "config" : {
+                 "properties" : {
+                     "angle" : 0
+                    ,"positionY" : 0
+                    ,"positionX" : 0
+                }
+            }
+            ,"entityFile" : "config/entity/trophy.json"
+        }*/
+    ]
+}

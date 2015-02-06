@@ -1,0 +1,4 @@
+{
+	"frames" : [ "asset/trophy.png" ],
+	"timeBetweenFrames" : 1 // in seconds
+}

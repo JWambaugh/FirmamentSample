@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="FirmamentSample" package="firmament.sample" version="1.0.0" company="RedEye" />
+	<app main="firmament.sample.FirmamentSample" path="build" file="FirmamentSample" />
+	
+	<source path="src" />
+    <source path="../Firmament/lib" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="tjson" />
+	<haxelib name="hscript" />
+    <haxelib name="box2d" />
+	 
+    <assets path="asset" exclude="openfl.svg" />
+	<assets path="config"  />
+	<icon path="asset/bitcoin.png" />
+	
+</project>

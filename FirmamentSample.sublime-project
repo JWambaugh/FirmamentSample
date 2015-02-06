@@ -1,0 +1,38 @@
+{
+    "build_systems":
+    [
+        {
+            "cmd":
+            [
+                "lime",
+                "test",
+                "mac",
+                "-Ddebug"
+            ],
+            "name": "Run Native",
+            "windows":
+            {
+                "cmd":
+                [
+                    "lime",
+                    "test",
+                    "windows",
+                    "-Ddebug"
+                ],
+            },
+            "working_dir": "$project_path"
+        }
+    ]
+
+	,"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "../Firmament"
+		}
+	]
+}

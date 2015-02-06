@@ -1,0 +1,19 @@
+{
+    "typeId": "trophy"
+    ,"components":{
+        "render":{
+            "componentName":"sprite"
+            ,"image":"asset/bitcoin.png"
+            ,"imageScale":500
+        }
+
+        ,"physics":{
+            "componentName":"noPhysics"
+            ,"fixedRotation":true
+            ,"width":1
+            ,"height":1
+        }
+        
+       
+    }
+}

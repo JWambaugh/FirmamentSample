@@ -1,0 +1,16 @@
+{
+    /*,cameras:[
+        {
+            width:100
+            ,height:100
+            ,name:"main"
+        }
+    ]*/
+
+    "map":"config/map/main.json"
+    ,"components":[
+       {
+            "type":"firmament.sample.FirmamentSampleSceneComponent"
+       }
+    ]
+}
